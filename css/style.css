@@ -6,9 +6,6 @@ nav a:hover, nav a:focus{
      border:2px purple dotted;
 }
 
-.skip{
-     position: relative;
-}
 /*Write selector/rule property to position the default position for the skip class element*/
 .skip a{
      position: absolute;
